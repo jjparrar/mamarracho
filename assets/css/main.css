@@ -3583,8 +3583,37 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 	}
+    #banner #video_overlay{
+      position: absolute;
+      z-index: 2;
+    }
+    #banner  #video_overlay video{
+      height: 100%;
+      /*position: absolute;*/
+      width: 100%;
+    }
+
+    #banner #banner_logo{
+      width: 300px;
+    }
+
+    #banner #inner_message{
+      opacity: 0;
+      z-index: 10;
+    }
+
+    #banner #inner_message:hover{
+      animation: fadein 2s;
+      opacity: 1;
+    }
+
+    @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
 
 		#banner h2 {
+      background: #eeeeee;
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
 			-ms-transform: scale(1);
