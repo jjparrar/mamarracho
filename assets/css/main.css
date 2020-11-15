@@ -2786,6 +2786,9 @@ input, select, textarea {
 		}
 
 /* Wrapper */
+    #one{
+        padding: 0;
+    }
 
 	.wrapper {
 		padding: 6em 0 4em 0 ;
@@ -2801,11 +2804,33 @@ input, select, textarea {
     }
 
     .wrapper #wrapper_section_who {
-      display: contents;
+        width: 100%;
     }
 
-    .wrapper #content_who {
-        background: pink;
+    .wrapper #wrapper_section_who .image {
+        background: url('../../images/leones_peque.jpg') no-repeat;
+        background-size: 175% auto;
+        width: 100%;
+    }
+
+    .wrapper #wrapper_section_who .content {
+        padding: 20px 40px;
+    }
+
+    .wrapper #wrapper_section_who header {
+        margin: 0;
+    }
+
+    .wrapper #wrapper_section_who ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrapper #wrapper_section_who #tec1 {
+        background: url('../../images/tec1.png') no-repeat;
+        background-size: 50px 50px;
+        height: 50px;
+        width: 50px;
     }
 
 			@media screen and (max-width: 1280px) {

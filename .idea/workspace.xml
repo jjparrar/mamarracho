@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2ad2798-d285-46e3-9015-626619c00505" name="Default Changelist" comment="Prueba de video">
-      <change afterPath="$PROJECT_DIR$/images/leones_grande.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/leones_peque.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tec1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tec2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tec3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/video_lobo.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/video_tutorial.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -52,6 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604528531660</updated>
       <workItem from="1604528533925" duration="9481000" />
+      <workItem from="1605406565620" duration="6859000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1604529363736</created>
@@ -107,6 +111,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -171,5 +176,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604535996584" />
+    <state x="347" y="169" key="run.anything.popup" timestamp="1605412086243">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="169" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1605412086243" />
   </component>
 </project>
