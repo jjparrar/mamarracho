@@ -22,22 +22,22 @@
     <!-- Header -->
     <header id="header" class="alt">
         <h1><a href="index.html">Mamarracho</a></h1>
-        <nav id="nav">
-            <ul>
-                <li class="special">
-                    <a href="#menu" class="menuToggle"><span>Menu</span></a>
-                    <div id="menu">
-                        <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="generic.html">Generic</a></li>
-                            <li><a href="elements.html">Elements</a></li>
-                            <li><a href="#">Sign Up</a></li>
-                            <li><a href="#">Log In</a></li>
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-        </nav>
+<!--        <nav id="nav">-->
+<!--            <ul>-->
+<!--                <li class="special">-->
+<!--                    <a href="#menu" class="menuToggle"><span>Menu</span></a>-->
+<!--                    <div id="menu">-->
+<!--                        <ul>-->
+<!--                            <li><a href="index.html">Home</a></li>-->
+<!--                            <li><a href="generic.html">Generic</a></li>-->
+<!--                            <li><a href="elements.html">Elements</a></li>-->
+<!--                            <li><a href="#">Sign Up</a></li>-->
+<!--                            <li><a href="#">Log In</a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </nav>-->
     </header>
 
     <!-- Banner -->
@@ -69,7 +69,7 @@
                             para permitirnos aportar a la imagen de su empresa con piezas únicas.</p>
                     </header>
                     <ul class="icons major">
-                        <li><span id="tec1" class=""><span class="label"></span></span></li>
+                        <li><span id="tec1" class="icon fa-gem major style1"><span class="label"></span></span></li>
                         <li><span id="tec2" class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
                         <li><span id="tec3" class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
                     </ul>
@@ -184,33 +184,36 @@
 
     <!-- CTA -->
     <section id="cta" class="wrapper style4">
-        <div class="inner">
-            <header>
-                <h2>Arcue ut vel commodo</h2>
-                <p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-            </header>
-            <ul class="actions stacked">
-                <li><a href="#" class="button fit primary">Activate</a></li>
-                <li><a href="#" class="button fit">Learn More</a></li>
-            </ul>
-        </div>
+        <h3>Contáctanos</h3>
+        <form action="https://api.staticforms.xyz/submit" method="post">
+            <!-- Replace with accesKey sent to your email -->
+            <input type="hidden" name="accessKey" value="e44fc5d0-0b52-4cb1-9f79-fefc3800d89c"> <!-- Required -->
+            <input type="text" name="name" placeholder="Nombre"> <!-- Optional -->
+            <input type="text" name="email" placeholder="Email"> <!-- Optional -->
+            <textarea name="message" placeholder="Mensaje"></textarea> <!-- Optional -->
+            <!-- If you want replyTo to be set to specific email -->
+<!--            <input type="text" name="replyTo" value="myreplytoemail@example.com"> &lt;!&ndash; Optional &ndash;&gt;-->
+            <!-- Specify @ as reply to value if you want it to be customers email -->
+<!--            <input type="hidden" name="replyTo" value="@"> &lt;!&ndash; Optional &ndash;&gt;-->
+            <!-- If you want form to redirect to a specific url after submission -->
+            <input type="hidden" name="redirectTo" value="https://www.mamarracho.co/"> <!-- Optional -->
+            <input type="submit" value="Submit" />
+        </form>
     </section>
 
     <!-- Footer -->
     <footer id="footer">
         <ul class="icons">
-            <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-            <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-            <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-            <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-            <li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+            <li><a href="https://www.facebook.com/mamarracho.anima" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+            <li><a href="https://www.instagram.com/mamarracho.anima/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="https://www.youtube.com/channel/UCSZeUTforffoHlVyjo20YYQ" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
+            <li><a href="mailto: mamarrachoanima@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
         </ul>
         <ul class="copyright">
-            <li>&copy; Untitled</li>
+            <li>&copy; 2020 - Mamarracho</li>
             <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         </ul>
     </footer>
-
 </div>
 
 <!-- Scripts -->
