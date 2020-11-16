@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ad2798-d285-46e3-9015-626619c00505" name="Default Changelist" comment="Primera versión">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d2ad2798-d285-46e3-9015-626619c00505" name="Default Changelist" comment="Actualiza la clave de correo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <updated>1604528531660</updated>
       <workItem from="1604528533925" duration="9481000" />
       <workItem from="1605406565620" duration="9203000" />
-      <workItem from="1605566287679" duration="27000" />
+      <workItem from="1605566287679" duration="399000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1604529363736</created>
@@ -111,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605415593717</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Actualiza la clave de correo">
+      <created>1605566569495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605566569495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +139,8 @@
     <MESSAGE value="Prueba de video" />
     <MESSAGE value="Contenidos" />
     <MESSAGE value="Primera versión" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera versión" />
+    <MESSAGE value="Actualiza la clave de correo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualiza la clave de correo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604528696598">
