@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2ad2798-d285-46e3-9015-626619c00505" name="Default Changelist" comment="Primera versión">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604528531660</updated>
       <workItem from="1604528533925" duration="9481000" />
-      <workItem from="1605406565620" duration="8957000" />
+      <workItem from="1605406565620" duration="9203000" />
+      <workItem from="1605566287679" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit">
       <created>1604529363736</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605415414102</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Primera versión">
+      <created>1605415593717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605415593717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,10 +190,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1897" height="354" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1604528679296" />
-    <state x="398" y="196" key="Vcs.Push.Dialog.v2" timestamp="1605415415708">
+    <state x="398" y="196" key="Vcs.Push.Dialog.v2" timestamp="1605415596548">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="398" y="196" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605415415708" />
+    <state x="398" y="196" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605415596548" />
     <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1604535996584" />
     <state x="347" y="169" key="run.anything.popup" timestamp="1605412086243">
       <screen x="0" y="0" width="1366" height="768" />
